@@ -3,7 +3,7 @@
 
 ## description
 ### table_of_contents
-    1. ![GitHub references](https://github.com/Ashfaque-Rahman/fintech_pet/tree/main/references)
-    2. ![GitHub Pet](https://github.com/Ashfaque-Rahman/fintech_pet/tree/main/pet)
+    1. [GitHub Folder 1](https://github.com/Ashfaque-Rahman/fintech_pet/tree/main/references)
+    2. [GitHub Folder 2](https://github.com/Ashfaque-Rahman/fintech_pet/tree/main/pet)
 
 
